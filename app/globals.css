@@ -86,4 +86,20 @@
   .black-gradient {
     background: linear-gradient(90deg, #161a31 0%, #06091f 100%);
   }
+  ::-webkit-scrollbar{
+    width: 9px;
+  
+  }
+  ::-webkit-scrollbar-track{
+    background: black;
+  }
+  ::-webkit-scrollbar-thumb{
+    background: white;
+    border-radius:4px;
+  }
+  ::-webkit-scrollbar-thumb:hover{
+    background: #D397F8;
+    /* background: #616161; */
+    width: 7px;
+  }
 }
