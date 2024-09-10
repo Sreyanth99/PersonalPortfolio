@@ -18,9 +18,9 @@ const Education = () => {
         className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-2xl font-medium tracking-tight text-transparent md:text-7xl"
         id='contact'>
         Education: <br />
-        <span className="px-4 py-5 text-center text-lg" id="education">
-        M.Sc Computer Science - Bishop&apos;s University, Canada<br/>
-        B.Tech Computer Science - GITAM University, India
+        <span className="text-center text-lg" id="education">
+        <span className='sm:text-xl md:text-2xl lg:text-3xl'>M.Sc Computer Science</span> - Bishop&apos;s University, Canada<br/>
+        <span className='sm:text-xl md:text-2xl lg:text-3xl'>B.Tech Computer Science</span> - GITAM University, India
         </span>
         </motion.h1>
   </LampContainer>
