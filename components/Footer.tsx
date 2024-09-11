@@ -1,5 +1,7 @@
 import React from 'react'
 import MagicButton from './ui/MagicButton'
+import { IoCopyOutline } from "react-icons/io5";
+
 
 const Footer = () => {
   return (
