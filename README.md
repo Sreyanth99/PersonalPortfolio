@@ -7,6 +7,6 @@ Lottie\
 Figma\
 Typescript
 
-Click <a href="https://sreyanth.netlify.app/" target="_blank"> Here </a> to check out the live website 
+Click <a href="https://sreyanth.vercel.app/" target="_blank"> Here </a> to check out the live website 
 
 ![image](https://github.com/user-attachments/assets/33ac728f-84f7-4d32-acec-6aee60b6f933)
